@@ -27,5 +27,5 @@
 
 ### Связь
 
-- Telegram: @antondevelop
+- Telegram: @antonfrontdev
 - Email: anton.knyazev.dev@gmail.com
